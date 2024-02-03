@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce (React) Coding Assessment
 
 ## Overview
@@ -79,3 +80,7 @@ Refer - [JSON sever](https://www.npmjs.com/package/json-server) docs for more in
 - Well explained readme (screenshot etc)
 
 ---
+=======
+Name: Amogh Mishra
+Registration Number: 20BCE2347
+>>>>>>> b7b9a11d2d0b70ef1d573196c1c48c2b861f9a75
