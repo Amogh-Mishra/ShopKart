@@ -9,3 +9,6 @@
 
 ### Product Detail Page
 ![Screenshot (6210)](https://github.com/Amogh-Mishra/ShopKart/assets/88359271/11783a82-70fe-4b46-a695-007e86b79238)
+
+#### Demonstration Video: 
+https://drive.google.com/file/d/1rSdRzsYxx93mzb24rL71ls_H9cz13Qdq/view?usp=sharing
